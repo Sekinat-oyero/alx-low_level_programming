@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 /**
- * main - a program that prints characters in lower case 
+ * main - a program that prints characters in lower case
  * except q and e
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char al= 'a';
+	char al = 'a';
 
 	while (al <= 'z')
 	{
